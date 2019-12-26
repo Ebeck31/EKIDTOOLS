@@ -1,7 +1,6 @@
-#!/bin/bash
-#Silahkan di recode :)
-#Jangan Lupa Subscribe MaulanaRyM
-
+ #!/bin/bash
+#Silahkan di COBA :)
+#Jangan Lupa Subscribe EKID ROOT
 #Variables
 b="\033[1m"
 u="\033[4m"
@@ -21,8 +20,8 @@ red="\033[1;31m"
 figlet ASW | lolcat
 
 echo "_____________________________________________________________"
-echo "Tools    : Kumpulan ASW Tools $white                         " |lolcat
-echo "Creadby  : Mr.yM $white                                      " |lolcat
+echo "Tools    : Kumpulan EKID ROOT $white                         " |lolcat
+echo "Creadby  : EBECK $white                                      " |lolcat
 echo "Contact  : 0852xxxxxxxx   $white                             " |lolcat
 echo "_____________________________________________________________"
 
